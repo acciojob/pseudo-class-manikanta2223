@@ -1,8 +1,9 @@
 /*  your css code here. If applicable */
 #container{
-	margin:20px;	
+	margin:20px;
+	color:rgb(0,0,0);
 }
-P{
+#container>span{
 	color:#f00;
 	font-size:20px;
 }
